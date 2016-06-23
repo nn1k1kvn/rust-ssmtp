@@ -12,7 +12,7 @@ fn main (){
         // Subject
         "Subject - Hello World!",
         // Body
-        "<html><body><h1>I am the body. Hello Wolrd!<br/><br/>And I accept html.</h1></body></html>"
+        "<html><body><h1>I am the body. Hello Wolrd!<br/><br/>And I accept html.</h1></body></html>\r\n"
     );
 
     // Define the actual email address to recieve the email
